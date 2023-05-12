@@ -9,3 +9,5 @@ func main() {
 	perimetro = lado * 4
 	fmt.Println("El perimetro del cuadrado es:", perimetro)
 }
+
+/testing revert
