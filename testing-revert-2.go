@@ -19,5 +19,3 @@ func main() {
 			fmt.Println("El numero 3 es el mayor: ", num3)
 		}
 	}
-
-	/testing revert
